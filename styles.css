@@ -44,3 +44,32 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+#education {
+    background-color: #f9f9f9; /* 背景颜色 */
+    padding: 20px; /* 内边距 */
+    border-radius: 8px; /* 圆角 */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* 阴影 */
+    margin: 20px 0; /* 外边距 */
+}
+
+.education-entry {
+    margin-bottom: 20px; /* 每个教育经历之间的间距 */
+    padding: 10px; /* 内边距 */
+    border-left: 4px solid #35424a; /* 左边框 */
+}
+
+.education-entry h3 {
+    color: #35424a; /* 标题颜色 */
+    margin-bottom: 5px; /* 标题底部间距 */
+}
+
+.highlight {
+    font-weight: bold; /* 高亮文本 */
+    color: #007bff; /* 高亮颜色 */
+}
+
+.date {
+    font-style: italic; /* 日期斜体 */
+    color: #777; /* 日期颜色 */
+}
