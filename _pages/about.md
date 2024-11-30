@@ -19,7 +19,7 @@ redirect_from:
 
 Changxin Wan received the B.S. degree in transportation engineering from Hohai University, in 2022. He is currently pursuing the M.S. degree with the College of Civil and Transportation Engineering, Hohai University.
 
-My research interest includes connected and automated vehicle, eco approach and departure, reinforcement learning, traffic signal control and transportation simulation. I have published more than 5 papers, including the top transportation journal IEEE-T-ITS with total <a href='https://scholar.google.com/citations?user=M4nRQeMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). You can also attach my [CV](docs/cv.pdf) for detailed information
+My research interest includes connected and automated vehicle, eco approach and departure, reinforcement learning, traffic signal control and transportation simulation. I have published more than 5 papers, including the top transportation journal IEEE-T-ITS with total <a href='https://scholar.google.com/citations?user=M4nRQeMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). You can also attach my [CV](docs/Acadamic_CV_Changxin_Wan.pdf) for detailed information
 
 
 # 🔥 News
