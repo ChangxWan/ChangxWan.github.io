@@ -19,42 +19,46 @@ redirect_from:
 
 Changxin Wan received the B.S. degree in transportation engineering from Hohai University, in 2022. He is currently pursuing the M.S. degree with the College of Civil and Transportation Engineering, Hohai university.
 
-My research interest includes connected and automated vehicle, eco approach and departure, reinforcement learning, traffic signal control and transportation simulation. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes connected and automated vehicle, eco approach and departure, reinforcement learning, traffic signal control and transportation simulation. I have published more than 5 papers, including the top transportation journal IEEE-T-ITS with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
-- *2024.11*: &nbsp;🎉🎉 I am awarded the China National Scholarship. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.11*: &nbsp;🎉🎉 I was awarded the China National Scholarship.  
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+%<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-ITS</div><img %src='images/500x300.png' alt="sym" width="100%"></div></div>
+%<div class='paper-box-text' markdown="1">
+%
+%[Deep Residual Learning for Image Recognition]%(https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+%
+%**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+%[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-%CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span %class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+%- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo %dapibus sit amet. 
+%</div>
+%</div>
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [**Wan, C.**, Shan, X., Hao, P., & Wu, G. (2024). Multi-objective coordinated control strategy for mixed traffic with partially connected and automated vehicles in urban corridors. **Physica A: Statistical Mechanics and its Applications**, 635, 129485](https://www.sciencedirect.com/science/article/abs/pii/S0378437123010403)
+- [Shan, X., **Wan, C.**, Hao, P., Wu, G., & Barth, M. J. (2024). Developing a novel dynamic bus lane control strategy with eco-driving under partially connected vehicle environment. **IEEE Transactions on Intelligent Transportation Systems**, 25(6), 5919-5934.5](https://ieeexplore.ieee.org/abstract/document/10485602)
+- [Shan, X., **Wan, C.**, Hao, P., Wu, G., & Zhang, X. (2023). Connected eco‐driving for electric buses along signalized arterials with bus stops. **IET Intelligent Transport Systems**, 17(3), 579-591.](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/itr2.12285)
+- [Shan, X., **Wan, C.**, Li, Z., Zhang, X., & Cao, C. (2022). Modeling and simulation of multi-lane heterogeneous traffic flow in intelligent and connected vehicle environment. **Journal of Transportation Systems Engineering and Information Technology**, 22(6), 74-84. (Chinese Journal)](http://www.tseit.org.cn/CN/abstract/abstract50541.shtml)
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.11*, China National Scholarship (Top 0.4%).
+- *2024.02*, Best paper runner-up award of IEEE-FISTS 2024.
+- *2023.07*, Outstanding award (First prize) of undergraduate and junior college graduation thesis (design) of Jiangsu province.
+- *2023.01*, Outstanding award (Ranked 37/ 1134) of the 10th China Post-Graduate Mathematical Contest in Modeling.
+- *2022.05*, Outstanding winner and SIAM award (Top 0.12 %) of Mathematical Contest in Modeling (MCM)
 
 # 📖 Educations
-- *2022.09 - 2025.06 (now)*, Comprehensive Transportation Planning and Management,
-  Supervised by Dr.Xiaonian Shan(https://ccte.hhu.edu.cn/2021/0906/c6263a227535/page.htm), Hohai University, Nanjing, China. 
+- *2022.09 - 2025.06 (now)*, Comprehensive Transportation Planning and Management, Supervised by [Dr.Xiaonian Shan](https://ccte.hhu.edu.cn/2021/0906/c6263a227535/page.htm), Hohai University, Nanjing, China. 
 - *2018.09 - 2022.06*, Traffic Engineering, Hohai University, Nanjing, China. 
 
 # 💬 Invited Talks
-- *2022.09*
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.02*, 'Developing a novel eco-driving strategy for connected and automated vehicle at isolated signalized intersection', IEEE-FISTS 2024, Riverside, California, Untied States.
+- *2023.08*, 'Multi-objective coordinated control strategy for mixed traffic with partially connected and automated vehicles in urban corridors', CTS 2023, Shanghai, China.
+- *2022.08*, 'High occupancy vehicle lane strategy considering bus priority in intelligent and connected vehicle environment', CTS 2022, Xi'an, China. 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- TBD.
