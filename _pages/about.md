@@ -26,21 +26,9 @@ My research interest includes connected and automated vehicle, eco approach and 
 - *2024.11*: &nbsp;🎉🎉 I was awarded the China National Scholarship.  
 
 # 📝 Publications 
-
-%<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-ITS</div><img %src='images/500x300.png' alt="sym" width="100%"></div></div>
-%<div class='paper-box-text' markdown="1">
-%
-%[Deep Residual Learning for Image Recognition]%(https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-%
-%**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-%[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-%CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span %class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-%- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo %dapibus sit amet. 
-%</div>
-%</div>
-
 - [**Wan, C.**, Shan, X., Hao, P., & Wu, G. (2024). Multi-objective coordinated control strategy for mixed traffic with partially connected and automated vehicles in urban corridors. **Physica A: Statistical Mechanics and its Applications**, 635, 129485](https://www.sciencedirect.com/science/article/abs/pii/S0378437123010403)
-- [Shan, X., **Wan, C.**, Hao, P., Wu, G., & Barth, M. J. (2024). Developing a novel dynamic bus lane control strategy with eco-driving under partially connected vehicle environment. **IEEE Transactions on Intelligent Transportation Systems**, 25(6), 5919-5934.5](https://ieeexplore.ieee.org/abstract/document/10485602)
+- [Shan, X., **Wan, C.**, Hao, P., Wu, G., & Barth, M. J. (2024). Developing a novel dynamic bus lane control strategy with eco-driving under partially connected vehicle environment. **IEEE Transactions on Intelligent Transportation Systems**, 25(6), 5919-5934.5](https://ieeexplore.ieee.org/abstract/document/10400977)
+- [**Wan, C.**, Shan, X., & Guan, H. (2024). Developing a novel eco-driving strategy for connected and automated vehicle at isolated signalized intersection. **The 4th IEEE Forum for Innovative Sustainable Transportation Systems (FISTS 2024)**, 1-6.](https://ieeexplore.ieee.org/abstract/document/10485602)
 - [Shan, X., **Wan, C.**, Hao, P., Wu, G., & Zhang, X. (2023). Connected eco‐driving for electric buses along signalized arterials with bus stops. **IET Intelligent Transport Systems**, 17(3), 579-591.](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/itr2.12285)
 - [Shan, X., **Wan, C.**, Li, Z., Zhang, X., & Cao, C. (2022). Modeling and simulation of multi-lane heterogeneous traffic flow in intelligent and connected vehicle environment. **Journal of Transportation Systems Engineering and Information Technology**, 22(6), 74-84. (Chinese Journal)](http://www.tseit.org.cn/CN/abstract/abstract50541.shtml)
 
