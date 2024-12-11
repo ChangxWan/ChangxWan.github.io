@@ -23,6 +23,7 @@ My research interest includes connected and automated vehicle, eco approach and 
 
 
 # 🔥 News
+- *2024.12*: &nbsp;🎉🎉 I was awarded the Star of Science and Technology at Hohai University. 
 - *2024.11*: &nbsp;🎉🎉 I was awarded the China National Scholarship.  
 
 # 📝 Publications 
